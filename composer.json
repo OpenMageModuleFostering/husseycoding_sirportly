@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/HusseyCoding_Sirportly",
+    "type": "magento-module",
+    "license": "OSL",
+    "homepage": "",
+    "description": "Magento to Sirportly integration.",
+    "authors": [
+    {
+        "name": "Hussey Coding",
+        "email": "info@husseycoding.co.uk"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
