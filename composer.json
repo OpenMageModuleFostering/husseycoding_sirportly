@@ -3,7 +3,7 @@
     "type": "magento-module",
     "license": "OSL",
     "homepage": "",
-    "description": "Magento to Sirportly integration.",
+    "description": "Magento to Sirportly ticketing integration.",
     "authors": [
     {
         "name": "Hussey Coding",
