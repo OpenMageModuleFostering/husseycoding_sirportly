@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/HusseyCoding_Sirportly",
+    "name": "OpenMageModuleFostering\/HusseyCoding_Sirportly",
     "type": "magento-module",
     "license": "OSL",
     "homepage": "",
     "description": "Magento to Sirportly ticketing integration.",
     "authors": [
-    {
-        "name": "Hussey Coding",
-        "email": "info@husseycoding.co.uk"
-    }
-],
+        {
+            "name": "Hussey Coding",
+            "email": "info@husseycoding.co.uk"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
