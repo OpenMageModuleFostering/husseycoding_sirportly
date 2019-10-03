@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/HusseyCoding_Sirportly",
+    "name": "openmage-module-fostering\/husseycoding_sirportly",
     "type": "magento-module",
-    "license": "OSL",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Magento to Sirportly ticketing integration.",
     "authors": [
